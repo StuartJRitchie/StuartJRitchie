@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC785C,100:191724&height=200&section=header&text=Stuart%20J.%20Ritchie&fontSize=50&fontColor=fff&desc=Psychologist%20%7C%20Author%20%7C%20AI%20Researcher&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-### 👋 Hey there, I'm Stuart Ritchie!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey there, I'm Stuart Ritchie!
 
 ### 📚 About
 
@@ -78,13 +78,12 @@ const stuart = {
 
 ---
 
-### 🐍 Contribution Graph
+### 📚 Selected Work
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuartJRitchie/StuartJRitchie/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuartJRitchie/StuartJRitchie/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/StuartJRitchie/StuartJRitchie/output/github-contribution-grid-snake.svg"/>
-</picture>
+- **Science Fictions** — Book on fraud, bias, and negligence in science  
+- **The Studies Show** — Weekly podcast examining controversial scientific claims  
+- **Intelligence research publications** — Academic work on cognitive differences and methodology  
+- **Science Fictions on Substack** — Newsletter covering scientific reform and evidence
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:191724,100:CC785C&height=100&section=footer" width="100%"/>
