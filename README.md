@@ -11,7 +11,7 @@ Psychologist and science communicator specializing in **human intelligence resea
 
 Currently working at **Anthropic**, contributing within the frontier AI research ecosystem.  
 
-Former Lecturer at the **Institute of Psychiatry, Psychology & Neuroscience, King’s College London**, and previously a postdoctoral researcher at the **University of Edinburgh**.  
+Former Lecturer at the **Institute of Psychiatry, Psychology & Neuroscience, King's College London**, and previously a postdoctoral researcher at the **University of Edinburgh**.  
 
 Author of *Science Fictions* — nominated for the Royal Society Prize for Science Books.  
 
@@ -61,7 +61,12 @@ const stuart = {
   guidingPrinciple:
     "Good science requires rigor, transparency, and a willingness to challenge weak evidence",
 };
+```
+
+---
+
 ### 📊 GitHub Activity
+
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StuartJRitchie&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuartJRitchie&layout=compact&langs_count=8&theme=rose_pine&hide_border=true"/>
@@ -71,7 +76,10 @@ const stuart = {
   <img src="https://streak-stats.demolab.com?user=StuartJRitchie&theme=rose-pine&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+---
+
 ### 🐍 Contribution Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuartJRitchie/StuartJRitchie/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuartJRitchie/StuartJRitchie/output/github-contribution-grid-snake.svg"/>
