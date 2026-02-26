@@ -1,6 +1,6 @@
 <!-- Top Waving Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC785C,100:191724&height=200&section=header&text=Stuart%20J.%20Ritchie&fontSize=50&fontColor=fff&desc=Psychologist%20%7C%20Author%20%7C%20AI%20Researcher&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC785C,100:191724&height=250&section=header&text=Stuart%20J.%20Ritchie&fontSize=50&fontColor=fff&desc=Psychologist%20%7C%20Author%20%7C%20AI%20Researcher&descAlignY=75&descAlign=50" width="100%"/>
 </div>
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey there, I'm Stuart Ritchie!
