@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC785C,100:191724&height=200&section=header&text=Stuart%20James%20Ritchie&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Psychologist%20%7C%20Human%20Intelligence%20Research%20%7C%20AI%20at%20Anthropic&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC785C,100:191724&height=200&section=header&text=Stuart%20J.%20Ritchie&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Psychologist%20%7C%20Author%20%7C%20AI%20Researcher&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-### 🧠 Stuart Ritchie
+### 👋 Hey there, I'm Stuart Ritchie!
 
 ![version](https://img.shields.io/badge/version-2026-informational?style=flat&color=CC785C) &nbsp;
 ![profile views](https://komarev.com/ghpvc/?username=StuartJRitchie&color=CC785C) &nbsp;
@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 About
+### 📚 About
 
 Psychologist and science communicator specialising in **human intelligence research, cognitive psychology, and scientific methodology**.
 
@@ -32,7 +32,7 @@ My work focuses on:
 
 ---
 
-### 🧠 Profile Snapshot
+### 💡 Profile Snapshot
 
 ```javascript
 const stuart = {
@@ -68,32 +68,39 @@ const stuart = {
     "Good science requires rigor, transparency, and a willingness to challenge weak evidence",
 };
 
-🔬 Areas of Focus
+### 🔬 Areas of Focus
 
-Psychology & Research
+**Psychology & Research**  
+![Human Intelligence](...) ![Cognitive Science](...) ![Statistics](...) ![Scientific Integrity](...)
 
- 
+**AI & Technology Context**  
+![AI Research](...) ![Anthropic](...) ![LLMs](...)
 
- 
+**Communication**  
+![Writing](...) ![Podcasting](...) ![Public Speaking](...)
 
- 
+### 🌐 Writing
+<a href="https://substack.com/@stuartritchie">
+  <img alt="Substack" src="https://img.shields.io/badge/Substack-Science%20Fictions-CC785C?style=flat&logo=substack&logoColor=white"/>
+</a>
 
- 
+### 📊 GitHub Activity
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StuartJRitchie&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuartJRitchie&layout=compact&langs_count=8&theme=rose_pine&hide_border=true"/>
+</p>
 
-AI & Technology Context
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=StuartJRitchie&theme=rose-pine&hide_border=true" alt="GitHub Streak"/>
+</p>
 
- 
+### 🐍 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuartJRitchie/StuartJRitchie/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuartJRitchie/StuartJRitchie/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/StuartJRitchie/StuartJRitchie/output/github-contribution-grid-snake.svg"/>
+</picture>
 
- 
-
- 
-
-Communication
-
-🌐 Writing
-<a href="https://substack.com/@stuartritchie"> <img alt="Substack" src="https://img.shields.io/badge/Substack-Science%20Fictions-CC785C?style=flat&logo=substack&logoColor=white"/> </a>
-📊 GitHub Activity
-<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StuartJRitchie&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuartJRitchie&layout=compact&langs_count=8&theme=rose_pine&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=StuartJRitchie&theme=rose-pine&hide_border=true" alt="GitHub Streak"/> </p>
-🐍 Contribution Graph
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StuartJRitchie/StuartJRitchie/output/github-contribution-grid-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StuartJRitchie/StuartJRitchie/output/github-contribution-grid-snake.svg"/> <img alt="contribution snake" src="https://raw.githubusercontent.com/StuartJRitchie/StuartJRitchie/output/github-contribution-grid-snake.svg"/> </picture>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:191724,100:CC785C&height=100&section=footer" width="100%"/> </div> ```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:191724,100:CC785C&height=100&section=footer" width="100%"/>
+</div>
